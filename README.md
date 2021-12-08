@@ -1,4 +1,4 @@
-# How The OCI Layers Work Together in the OSI Model
+# How The OSI Layers Work Together in the OSI Model
 ### By: Hailey Jessee
 This tutorial is an explanation on the different layers of the OSI model. This tutorial focuses on the specifics of each layer as well as how they all work together to make up the OSI model.
 
