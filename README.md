@@ -6,10 +6,10 @@ My intended target audience is for those who deal with networks on a daily basis
 
 1. [Physical Layer](https://github.com/HaileyJessee/FinalProject-OSI/blob/main/PhysicalLayer.md#physical-layer)
 2. [Data Link Layer](https://github.com/HaileyJessee/FinalProject-OSI/blob/main/DataLinkLayer.md#datalink-layer)
-3. Network Layer
-4. Transport Layer
-5. Session Layer
-6. Presentation Layer
-7. Application Layer
+3. [Network Layer](https://github.com/HaileyJessee/FinalProject-OSI/blob/main/NetworkLayer.md#network-layer)
+4. [Transport Layer](https://github.com/HaileyJessee/FinalProject-OSI/blob/main/TransportLayer.md#transport-layer)
+5. [Session Layer](https://github.com/HaileyJessee/FinalProject-OSI/blob/main/SessionLayer.md#session-layer)
+6. [Presentation Layer](https://github.com/HaileyJessee/FinalProject-OSI/blob/main/PresentationLayer.md#presentation-layer)
+7. [Application Layer](https://github.com/HaileyJessee/FinalProject-OSI/blob/main/ApplicationLayer.md#application-layer)
 
 
